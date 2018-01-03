@@ -52,5 +52,9 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSMicrophoneUsageDescription</key><key>NSMicrophoneUsageDescription</key> 
+	<string>This app uses the microphone to detect what guitar 
+			string is being pressed.
+	</string>
 </dict>
 </plist>
